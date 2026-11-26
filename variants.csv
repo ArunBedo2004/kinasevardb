@@ -1,0 +1,271 @@
+gene_symbol,variant_id,variant_title,clinical_significance
+EGFR,2028937,NM_005228.5(EGFR):c.1498+1G>T,Likely pathogenic
+EGFR,1703560,Single allele,Pathogenic
+EGFR,1347255,NM_005228.5(EGFR):c.1881-2A>G,Conflicting classifications of pathogenicity
+EGFR,1064235,NM_005228.5(EGFR):c.250G>C (p.Glu84Gln),Uncertain significance
+EGFR,1046386,NM_005228.5(EGFR):c.1919+2T>G,Conflicting classifications of pathogenicity
+EGFR,687427,GRCh37/hg19 7p22.3-q36.3(chr7:10365-159119707)x3,Pathogenic
+EGFR,442834,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707)x3,Pathogenic
+EGFR,442833,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707),Pathogenic
+EGFR,402244,TMEM106B-BRAF fusion,Pathogenic
+EGFR,376395,NM_005228.5(EGFR):c.865G>A (p.Ala289Thr),Uncertain significance
+EGFR,242972,NC_000007.13:g.(20954043_21001537)_(114528369_114556605)inv,Pathogenic
+EGFR,146075,GRCh38/hg38 7p22.3-q36.3(chr7:54185-159282390)x1,Pathogenic
+EGFR,59680,GRCh38/hg38 7p14.3-q11.21(chr7:33328312-62377476)x3,Pathogenic
+EGFR,45277,NM_005228.5(EGFR):c.2497T>G (p.Leu833Val),Conflicting classifications of pathogenicity
+BRAF,4884743,GRCh37/hg19 7q21.12-36.3(chr7:88192865-159128556)x3,Pathogenic
+BRAF,1703560,Single allele,Pathogenic
+BRAF,1461844,NM_004333.6(BRAF):c.229A>G (p.Ile77Val),Uncertain significance
+BRAF,1325840,NM_004333.6(BRAF):c.1454T>G (p.Leu485Trp),Pathogenic
+BRAF,1317489,NM_004333.6(BRAF):c.1738A>G (p.Asn580Asp),Pathogenic
+BRAF,977327,NM_004333.6(BRAF):c.1820C>T (p.Ser607Phe),Uncertain significance
+BRAF,910577,NM_004333.6(BRAF):c.1056T>A (p.Asp352Glu),Uncertain significance
+BRAF,687427,GRCh37/hg19 7p22.3-q36.3(chr7:10365-159119707)x3,Pathogenic
+BRAF,599445,NM_004333.6(BRAF):c.1388_1408dup (p.Ile463_Gly469dup),Likely pathogenic
+BRAF,579533,NM_004333.6(BRAF):c.68T>A (p.Met23Lys),Benign/Likely benign
+BRAF,563422,GRCh37/hg19 7q22.1-36.3(chr7:98693388-159119707)x3,Pathogenic
+BRAF,500454,NM_004333.6(BRAF):c.1207C>G (p.Pro403Ala),Conflicting classifications of pathogenicity
+BRAF,442834,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707)x3,Pathogenic
+BRAF,442833,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707),Pathogenic
+BRAF,417225,NM_004333.6(BRAF):c.976A>G (p.Ile326Val),Benign
+BRAF,402244,TMEM106B-BRAF fusion,Pathogenic
+BRAF,376073,NM_004333.6(BRAF):c.1397G>A (p.Gly466Glu),Conflicting classifications of pathogenicity
+BRAF,375941,NM_004333.6(BRAF):c.1798_1799delinsAA (p.Val600Lys),Uncertain significance
+BRAF,202193,NM_004333.6(BRAF):c.1783T>C (p.Phe595Leu),Pathogenic/Likely pathogenic
+BRAF,180723,NM_004333.6(BRAF):c.785A>G (p.Gln262Arg),Pathogenic/Likely pathogenic
+BRAF,177844,NM_004333.6(BRAF):c.1455G>T (p.Leu485Phe),Pathogenic
+BRAF,162793,NM_004333.6(BRAF):c.1794_1796dup (p.Thr599dup),Pathogenic
+BRAF,147547,GRCh38/hg38 7q21.3-36.3(chr7:97419852-158923762)x3,Pathogenic
+BRAF,146075,GRCh38/hg38 7p22.3-q36.3(chr7:54185-159282390)x1,Pathogenic
+BRAF,136535,NM_004333.6(BRAF):c.2128-16C>T,Benign/Likely benign
+BRAF,44821,NM_004333.6(BRAF):c.2128-5del,Benign/Likely benign
+BRAF,44817,NM_004333.6(BRAF):c.1799_1801del (p.Val600_Lys601delinsGlu),Likely pathogenic
+BRAF,44813,NM_004333.6(BRAF):c.1780G>A (p.Asp594Asn),Likely pathogenic
+BRAF,44803,NM_004333.6(BRAF):c.1406G>T (p.Gly469Val),Pathogenic
+BRAF,44801,NM_004333.6(BRAF):c.1396G>A (p.Gly466Arg),Pathogenic/Likely pathogenic
+BRAF,41446,NM_004333.6(BRAF):c.1801A>C (p.Lys601Gln),Pathogenic
+BRAF,40389,NM_004333.6(BRAF):c.1799T>G (p.Val600Gly),Pathogenic
+BRAF,40387,NM_004333.6(BRAF):c.1787G>T (p.Gly596Val),Pathogenic
+BRAF,40365,NM_004333.6(BRAF):c.1391G>C (p.Gly464Ala),Conflicting classifications of pathogenicity
+BRAF,40364,NM_004333.6(BRAF):c.1391G>T (p.Gly464Val),Pathogenic/Likely pathogenic
+BRAF,40346,NM_004333.6(BRAF):c.730A>C (p.Thr244Pro),Pathogenic
+BRAF,13979,NM_004333.6(BRAF):c.1741A>G (p.Asn581Asp),Pathogenic
+BRAF,13978,NM_004333.6(BRAF):c.1502A>G (p.Glu501Gly),Pathogenic/Likely pathogenic
+BRAF,13975,NM_004333.6(BRAF):c.1455G>C (p.Leu485Phe),Pathogenic
+BRAF,13973,NM_004333.6(BRAF):c.770A>G (p.Gln257Arg),Pathogenic
+BRAF,13972,NM_004333.6(BRAF):c.1781A>G (p.Asp594Gly),Conflicting classifications of pathogenicity
+BRAF,13971,NM_004333.6(BRAF):c.1406G>C (p.Gly469Ala),Pathogenic
+BRAF,13969,NM_004333.6(BRAF):c.1789C>G (p.Leu597Val),Pathogenic
+BRAF,13968,NM_004333.6(BRAF):c.1790T>G (p.Leu597Arg),Pathogenic
+BRAF,13966,NM_004333.6(BRAF):c.1801A>G (p.Lys601Glu),Pathogenic
+BRAF,13964,NM_004333.6(BRAF):c.1391G>A (p.Gly464Glu),Pathogenic
+BRAF,13961,NM_004333.6(BRAF):c.1799T>A (p.Val600Glu),Conflicting classifications of pathogenicity
+ALK,4530187,NM_004304.5(ALK):c.3512T>G (p.Ile1171Ser),
+ALK,4530185,NM_004304.5(ALK):c.3832T>G (p.Tyr1278Asp),
+ALK,4530184,NM_004304.5(ALK):c.3824G>T (p.Arg1275Leu),
+ALK,3853571,NM_004304.5(ALK):c.805G>T (p.Asp269Tyr),Uncertain significance
+ALK,3679390,NM_004304.5(ALK):c.2133C>G (p.Ser711Arg),Uncertain significance
+ALK,3223826,NM_004304.5(ALK):c.2240G>A (p.Gly747Glu),Uncertain significance
+ALK,3011321,NM_004304.5(ALK):c.4186G>T (p.Ala1396Ser),Uncertain significance
+ALK,2693976,NM_004304.5(ALK):c.1357C>T (p.Gln453Ter),Uncertain significance
+ALK,2675809,NM_004304.5(ALK):c.4543C>A (p.Pro1515Thr),Uncertain significance
+ALK,2561058,NM_004304.5(ALK):c.1888A>T (p.Ile630Phe),Uncertain significance
+ALK,2119820,NM_004304.5(ALK):c.2928C>A (p.His976Gln),Uncertain significance
+ALK,2091579,NM_004304.5(ALK):c.2977G>A (p.Asp993Asn),Uncertain significance
+ALK,1739323,NM_004304.5(ALK):c.427C>A (p.Leu143Met),Uncertain significance
+ALK,1487852,NM_004304.5(ALK):c.3095C>A (p.Pro1032Gln),Uncertain significance
+ALK,1460580,NM_004304.5(ALK):c.3626G>C (p.Arg1209Pro),Uncertain significance
+ALK,1426854,NM_004304.5(ALK):c.3067+1G>T,Uncertain significance
+ALK,1367317,NM_004304.5(ALK):c.77G>A (p.Gly26Asp),Uncertain significance
+ALK,1351397,NM_004304.5(ALK):c.3360-1G>A,Uncertain significance
+ALK,1064376,NM_004304.5(ALK):c.2633-2A>G,Uncertain significance
+ALK,1024513,NM_004304.5(ALK):c.1663C>T (p.Leu555Phe),Uncertain significance
+ALK,1023757,NM_004304.5(ALK):c.3005A>C (p.His1002Pro),Uncertain significance
+ALK,1019332,NM_004304.5(ALK):c.322G>A (p.Val108Ile),Uncertain significance
+ALK,1006268,NM_004304.5(ALK):c.2710C>T (p.His904Tyr),Uncertain significance
+ALK,1003201,NM_004304.5(ALK):c.3067+9G>T,Conflicting classifications of pathogenicity
+ALK,1000895,NM_004304.5(ALK):c.2144G>A (p.Gly715Glu),Uncertain significance
+ALK,957683,NM_004304.5(ALK):c.701C>T (p.Pro234Leu),Uncertain significance
+ALK,954603,NM_004304.5(ALK):c.2535_2536inv (p.Gly846Ser),Uncertain significance
+ALK,947158,NM_004304.5(ALK):c.4860_*12del (p.Ter1621LeuextTer?),Uncertain significance
+ALK,843692,NM_004304.5(ALK):c.3376G>A (p.Ala1126Thr),Uncertain significance
+ALK,841128,NM_004304.5(ALK):c.3836+6T>G,Uncertain significance
+ALK,836167,NM_004304.5(ALK):c.623T>C (p.Ile208Thr),Uncertain significance
+ALK,644322,NM_004304.5(ALK):c.3130C>T (p.Leu1044Phe),Uncertain significance
+ALK,639161,NM_004304.5(ALK):c.3884G>A (p.Trp1295Ter),Uncertain significance
+ALK,582424,NM_004304.5(ALK):c.343C>T (p.Pro115Ser),Uncertain significance
+ALK,569201,NM_004304.5(ALK):c.2489T>C (p.Met830Thr),Uncertain significance
+ALK,567581,NM_004304.5(ALK):c.4454C>T (p.Pro1485Leu),Uncertain significance
+ALK,566374,NM_004304.5(ALK):c.221C>T (p.Pro74Leu),Uncertain significance
+ALK,538251,NM_004304.5(ALK):c.2504C>T (p.Pro835Leu),Uncertain significance
+ALK,538203,NM_004304.5(ALK):c.2821A>C (p.Asn941His),Uncertain significance
+ALK,538188,NM_004304.5(ALK):c.4768G>A (p.Gly1590Ser),Uncertain significance
+ALK,470884,NM_004304.5(ALK):c.4738G>A (p.Gly1580Arg),Uncertain significance
+ALK,470828,NM_004304.5(ALK):c.3421G>A (p.Asp1141Asn),Uncertain significance
+ALK,470813,NM_004304.5(ALK):c.298A>G (p.Arg100Gly),Uncertain significance
+ALK,470744,NM_004304.5(ALK):c.1279G>A (p.Glu427Lys),Conflicting classifications of pathogenicity
+ALK,470735,NM_004304.5(ALK):c.1108G>A (p.Glu370Lys),Conflicting classifications of pathogenicity
+ALK,404393,NM_004304.5(ALK):c.1390G>A (p.Gly464Arg),Uncertain significance
+ALK,404385,NM_004304.5(ALK):c.775C>T (p.Arg259Cys),Conflicting classifications of pathogenicity
+ALK,404357,NM_004304.5(ALK):c.3337C>T (p.Arg1113Trp),Uncertain significance
+ALK,404336,NM_004304.5(ALK):c.4795C>T (p.Pro1599Ser),Conflicting classifications of pathogenicity
+ALK,404335,NM_004304.5(ALK):c.3160G>A (p.Gly1054Ser),Conflicting classifications of pathogenicity
+ALK,375887,NM_004304.5(ALK):c.3521T>G (p.Phe1174Cys),Likely pathogenic
+ALK,335718,NM_004304.5(ALK):c.32C>T (p.Pro11Leu),Conflicting classifications of pathogenicity
+ALK,259272,NM_004304.5(ALK):c.4165-6C>T,Benign
+ALK,259271,NM_004304.5(ALK):c.3359+6C>T,Benign
+ALK,217856,NM_004304.5(ALK):c.3734T>G (p.Phe1245Cys),Pathogenic
+ALK,217855,NM_004304.5(ALK):c.3733T>A (p.Phe1245Ile),Pathogenic
+ALK,217852,NM_004304.5(ALK):c.3522C>G (p.Phe1174Leu),Pathogenic
+ALK,217850,NM_004304.5(ALK):c.3520T>A (p.Phe1174Ile),Pathogenic
+ALK,133482,NM_004304.5(ALK):c.1100C>G (p.Pro367Arg),Conflicting classifications of pathogenicity
+ALK,133462,NM_004304.5(ALK):c.2039C>T (p.Thr680Ile),Benign/Likely benign
+ALK,65671,NM_004304.5(ALK):c.3733T>G (p.Phe1245Val),Likely pathogenic
+ALK,18084,NM_004304.5(ALK):c.3383G>C (p.Gly1128Ala),Pathogenic; risk factor
+ALK,18083,NM_004304.5(ALK):c.3824G>A (p.Arg1275Gln),Pathogenic
+ERBB2,4420957,NM_004448.4(ERBB2):c.2264T>G (p.Leu755Trp),
+ERBB2,4420941,NM_004448.4(ERBB2):c.643+48G>A,
+ERBB2,4420935,NM_001005862.3(ERBB2):c.-18+1G>T,
+ERBB2,3242217,GRCh37/hg19 17q12-22(chr17:41196270-41277589),Pathogenic
+ERBB2,441816,GRCh37/hg19 17p13.3-q25.3(chr17:526-81041938)x3,Pathogenic
+ERBB2,441815,GRCh37/hg19 17p13.3-q25.3(chr17:526-81041938),Pathogenic
+ERBB2,375994,NM_004448.4(ERBB2):c.2524G>A (p.Val842Ile),Uncertain significance
+ERBB2,148363,GRCh38/hg38 17q23.1-25.1(chr17:36449220-75053130)x3,Pathogenic
+ERBB2,58696,GRCh38/hg38 17q12-21.31(chr17:39199873-45629579)x3,Pathogenic
+ERBB2,57282,GRCh38/hg38 17q21.33-24.2(chr17:36449220-68170214)x3,Pathogenic
+MET,4884743,GRCh37/hg19 7q21.12-36.3(chr7:88192865-159128556)x3,Pathogenic
+MET,2501298,NM_000245.4(MET):c.3400T>A (p.Phe1134Ile),Uncertain significance
+MET,1703560,Single allele,Pathogenic
+MET,1318641,NM_000245.4(MET):c.107A>G (p.Asn36Ser),Uncertain significance
+MET,1318632,NM_000245.4(MET):c.3133C>A (p.Pro1045Thr),Uncertain significance
+MET,983225,NM_000245.4(MET):c.3028G>A (p.Asp1010Asn),Uncertain significance
+MET,951021,NM_000245.4(MET):c.1986T>G (p.Ile662Met),Uncertain significance
+MET,823428,NM_000245.4(MET):c.3230T>C (p.Ile1077Thr),Uncertain significance
+MET,687427,GRCh37/hg19 7p22.3-q36.3(chr7:10365-159119707)x3,Pathogenic
+MET,660337,NM_000245.4(MET):c.1430T>A (p.Val477Glu),Uncertain significance
+MET,569622,NM_000245.4(MET):c.4145G>C (p.Arg1382Pro),Uncertain significance
+MET,563422,GRCh37/hg19 7q22.1-36.3(chr7:98693388-159119707)x3,Pathogenic
+MET,480850,NM_000245.4(MET):c.1099A>G (p.Ile367Val),Conflicting classifications of pathogenicity
+MET,454250,NM_000245.4(MET):c.3997C>G (p.Leu1333Val),Uncertain significance
+MET,442834,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707)x3,Pathogenic
+MET,442833,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707),Pathogenic
+MET,402244,TMEM106B-BRAF fusion,Pathogenic
+MET,376126,NM_000245.4(MET):c.3749T>C (p.Met1250Thr),Likely pathogenic
+MET,216508,NM_000245.4(MET):c.3521A>G (p.His1174Arg),Conflicting classifications of pathogenicity
+MET,194024,NM_000245.4(MET):c.2584-7del,Conflicting classifications of pathogenicity
+MET,147547,GRCh38/hg38 7q21.3-36.3(chr7:97419852-158923762)x3,Pathogenic
+MET,146075,GRCh38/hg38 7p22.3-q36.3(chr7:54185-159282390)x1,Pathogenic
+MET,135974,NM_000245.4(MET):c.65G>T (p.Ser22Ile),Conflicting classifications of pathogenicity
+MET,135960,NM_000245.4(MET):c.1412G>A (p.Gly471Glu),Conflicting classifications of pathogenicity
+MET,93579,NM_000245.4(MET):c.654G>A (p.Arg218=),Benign/Likely benign
+MET,93578,NM_000245.4(MET):c.534C>T (p.Ser178=),Benign
+MET,93577,NM_000245.4(MET):c.4117G>C (p.Asp1373His),Conflicting classifications of pathogenicity
+MET,93576,NM_000245.4(MET):c.4092G>A (p.Pro1364=),Benign
+MET,93574,NM_000245.4(MET):c.3858C>T (p.Asp1286=),Benign
+MET,93569,NM_000245.4(MET):c.1944A>G (p.Gln648=),Benign/Likely benign
+MET,93567,NM_000245.4(MET):c.144G>A (p.Ala48=),Benign/Likely benign
+MET,93566,NM_000245.4(MET):c.1131C>T (p.Ile377=),Benign
+MET,93564,NM_000245.4(MET):c.1076G>A (p.Arg359Gln),Conflicting classifications of pathogenicity
+MET,13885,NM_000245.4(MET):c.3689A>G (p.Tyr1230Cys),Conflicting classifications of pathogenicity
+MET,13884,NM_000245.4(MET):c.3682G>A (p.Asp1228Asn),Uncertain significance
+RET,4363010,NM_020975.6(RET):c.1648+88C>G,
+RET,4363005,NM_020975.6(RET):c.74-56G>T,
+RET,2684602,GRCh37/hg19 10q11.21-24.2(chr10:42709645-100834951)x3,Pathogenic
+RET,2574696,GRCh37/hg19 10p14-q26.3(chr10:11138692-135427143),Pathogenic
+RET,2574686,GRCh37/hg19 10p13-q26.3(chr10:12829206-135427143),Pathogenic
+RET,1799271,NM_020975.6(RET):c.3051C>A (p.Asp1017Glu),Uncertain significance
+RET,959187,NM_020975.6(RET):c.2078G>A (p.Arg693His),Uncertain significance
+RET,870394,NM_020975.6(RET):c.2629G>C (p.Ala877Pro),Likely pathogenic
+RET,851935,NM_020975.6(RET):c.3192G>A (p.Met1064Ile),Conflicting classifications of pathogenicity
+RET,695031,NM_020975.6(RET):c.1753T>C (p.Cys585Arg),Likely pathogenic
+RET,572175,NM_020975.6(RET):c.1423C>T (p.Arg475Trp),Uncertain significance
+RET,569870,NM_020975.6(RET):c.224C>T (p.Thr75Met),Conflicting classifications of pathogenicity
+RET,477303,NM_020975.6(RET):c.1090A>G (p.Ile364Val),Conflicting classifications of pathogenicity
+RET,443260,GRCh37/hg19 10p15.3-q11.23(chr10:100026-50961640)x3,Pathogenic
+RET,441987,GRCh37/hg19 10p15.3-q26.3(chr10:100027-135427143),Pathogenic
+RET,441986,GRCh37/hg19 10p15.3-q26.3(chr10:100027-135427143)x3,Pathogenic
+RET,423343,NM_020975.6(RET):c.175G>A (p.Ala59Thr),Conflicting classifications of pathogenicity
+RET,405541,NM_020975.6(RET):c.235C>T (p.Arg79Trp),Conflicting classifications of pathogenicity
+RET,405538,NM_020975.6(RET):c.134C>T (p.Ala45Val),Uncertain significance
+RET,405529,NM_020975.6(RET):c.1151C>G (p.Pro384Arg),Conflicting classifications of pathogenicity
+RET,393995,GRCh37/hg19 10p15.3-q26.3(chr10:93297-135378918)x3,Pathogenic
+RET,373412,NM_020975.6(RET):c.361G>A (p.Val121Ile),Conflicting classifications of pathogenicity
+RET,241333,NM_020975.6(RET):c.1063+9G>A,Conflicting classifications of pathogenicity
+RET,230926,NM_020975.6(RET):c.1998G>C (p.Lys666Asn),Pathogenic/Likely pathogenic
+RET,220530,NM_020975.6(RET):c.2477A>C (p.Tyr826Ser),Conflicting classifications of pathogenicity
+RET,216727,NM_020975.6(RET):c.406G>A (p.Glu136Lys),Conflicting classifications of pathogenicity
+RET,216726,NM_020975.6(RET):c.334C>T (p.Arg112Cys),Conflicting classifications of pathogenicity
+RET,184536,NM_020975.6(RET):c.604G>A (p.Val202Met),Uncertain significance
+RET,154900,GRCh38/hg38 10q11.21-21.3(chr10:42112187-67400675)x3,Pathogenic
+RET,136120,NM_020975.6(RET):c.335G>A (p.Arg112His),Conflicting classifications of pathogenicity
+RET,136103,NM_020975.6(RET):c.1699G>A (p.Asp567Asn),Conflicting classifications of pathogenicity
+RET,136094,NM_020975.6(RET):c.1095G>A (p.Ser365=),Conflicting classifications of pathogenicity
+RET,132713,NM_020975.6(RET):c.1264-5C>T,Benign/Likely benign
+RET,41845,NM_020975.6(RET):c.785T>C (p.Val262Ala),Conflicting classifications of pathogenicity
+RET,41842,NM_020975.6(RET):c.2611G>A (p.Val871Ile),Conflicting classifications of pathogenicity
+RET,38613,NM_020975.6(RET):c.2410G>C (p.Val804Leu),Pathogenic/Likely pathogenic
+RET,24968,NM_020975.6(RET):c.2735G>C (p.Arg912Pro),Uncertain significance
+RET,24960,NM_020975.6(RET):c.2656C>T (p.Arg886Trp),Conflicting classifications of pathogenicity
+RET,24955,NM_020975.6(RET):c.2556C>G (p.Ile852Met),Conflicting classifications of pathogenicity
+RET,24937,NM_020975.6(RET):c.2330A>G (p.Asn777Ser),Uncertain significance
+RET,24905,NM_020975.6(RET):c.1858T>G (p.Cys620Gly),Pathogenic
+RET,13950,NM_020975.6(RET):c.1597G>T (p.Gly533Cys),Pathogenic
+RET,13938,NM_020975.6(RET):c.2944C>T (p.Arg982Cys),Conflicting classifications of pathogenicity
+RET,13935,NM_020975.6(RET):c.2370G>C (p.Leu790Phe),Pathogenic/Likely pathogenic
+RET,13929,NM_020975.6(RET):c.1852T>C (p.Cys618Arg),Pathogenic/Likely pathogenic
+RET,13926,NM_020975.6(RET):c.989G>A (p.Arg330Gln),Conflicting classifications of pathogenicity
+RET,13919,NM_020975.6(RET):c.2753T>C (p.Met918Thr),Pathogenic/Likely pathogenic
+RET,13917,NM_020975.6(RET):c.1900T>C (p.Cys634Arg),Pathogenic/Likely pathogenic
+RET,13909,NM_020975.6(RET):c.1901G>A (p.Cys634Tyr),Pathogenic/Likely pathogenic
+RET,13908,NM_020975.6(RET):c.1900T>G (p.Cys634Gly),Pathogenic
+KIT,4306564,NM_000222.3(KIT):c.2362-143A>T,
+KIT,4306560,NM_000222.3(KIT):c.1775-52A>T,
+KIT,3647912,NM_000222.3(KIT):c.2142-2A>G,Likely pathogenic
+KIT,3024631,GRCh37/hg19 4p12-q35.2(chr4:45455621-191003541)x3,Pathogenic
+KIT,2579174,GRCh38/hg38 4p16.3-q12(chr4:85624-57073230)x3,Pathogenic
+KIT,1716236,NM_000222.3(KIT):c.2446G>A (p.Asp816Asn),Uncertain significance
+KIT,1340288,GRCh37/hg19 4q12-31.21(chr4:52866944-143582507)x3,Pathogenic
+KIT,664356,NM_000222.3(KIT):c.1638A>T (p.Lys546Asn),Uncertain significance
+KIT,651292,NM_000222.3(KIT):c.1526A>T (p.Lys509Ile),Pathogenic
+KIT,565576,NM_000222.3(KIT):c.1861G>A (p.Ala621Thr),Pathogenic/Likely pathogenic
+KIT,441812,GRCh37/hg19 4p16.3-q13.1(chr4:68345-66440622)x3,Pathogenic
+KIT,441728,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473),Pathogenic
+KIT,441727,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473)x3,Pathogenic
+KIT,409787,NM_000222.3(KIT):c.2867G>A (p.Arg956Gln),Conflicting classifications of pathogenicity
+KIT,409780,NM_000222.3(KIT):c.182C>T (p.Pro61Leu),Conflicting classifications of pathogenicity
+KIT,409778,NM_000222.3(KIT):c.2105T>C (p.Leu702Pro),Uncertain significance
+KIT,409758,NM_000222.3(KIT):c.2663G>A (p.Arg888Gln),Conflicting classifications of pathogenicity
+KIT,409718,NM_000222.3(KIT):c.1351T>C (p.Ser451Pro),Conflicting classifications of pathogenicity
+KIT,394609,GRCh37/hg19 4p16.3-q35.2(chr4:12440-190904441)x3,Pathogenic
+KIT,375933,NM_000222.3(KIT):c.2485G>C (p.Ala829Pro),Pathogenic
+KIT,375932,NM_000222.3(KIT):c.2466T>G (p.Asn822Lys),Pathogenic/Likely pathogenic
+KIT,375930,NM_000222.3(KIT):c.2465A>T (p.Asn822Ile),Pathogenic
+KIT,375923,NM_000222.3(KIT):c.1965T>A (p.Asn655Lys),Pathogenic
+KIT,375921,NM_000222.3(KIT):c.1961T>C (p.Val654Ala),Uncertain significance
+KIT,375909,NM_000222.3(KIT):c.1669T>C (p.Trp557Arg),Pathogenic/Likely pathogenic
+KIT,237272,NM_000222.3(KIT):c.2923G>A (p.Asp975Asn),Conflicting classifications of pathogenicity
+KIT,220935,NM_000222.3(KIT):c.86T>A (p.Val29Glu),Conflicting classifications of pathogenicity
+KIT,134625,NM_000222.3(KIT):c.2554G>A (p.Val852Ile),Conflicting classifications of pathogenicity
+KIT,13866,NM_000222.3(KIT):c.1924A>G (p.Lys642Glu),Pathogenic
+KIT,13865,NM_000222.3(KIT):c.1676T>C (p.Val559Ala),Pathogenic/Likely pathogenic
+KIT,13856,NM_000222.3(KIT):c.1676T>A (p.Val559Asp),Pathogenic
+KIT,13853,NM_000222.3(KIT):c.2459A>G (p.Asp820Gly),Uncertain significance
+KIT,13852,NM_000222.3(KIT):c.2447A>T (p.Asp816Val),Conflicting classifications of pathogenicity
+PDGFRA,3024631,GRCh37/hg19 4p12-q35.2(chr4:45455621-191003541)x3,Pathogenic
+PDGFRA,2579174,GRCh38/hg38 4p16.3-q12(chr4:85624-57073230)x3,Pathogenic
+PDGFRA,2453855,NM_006206.6(PDGFRA):c.1586C>T (p.Ala529Val),Uncertain significance
+PDGFRA,1793337,NM_006206.6(PDGFRA):c.2579A>G (p.Lys860Arg),Uncertain significance
+PDGFRA,1340288,GRCh37/hg19 4q12-31.21(chr4:52866944-143582507)x3,Pathogenic
+PDGFRA,441812,GRCh37/hg19 4p16.3-q13.1(chr4:68345-66440622)x3,Pathogenic
+PDGFRA,441728,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473),Pathogenic
+PDGFRA,441727,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473)x3,Pathogenic
+PDGFRA,407425,NM_006206.6(PDGFRA):c.1424A>C (p.Glu475Ala),Conflicting classifications of pathogenicity
+PDGFRA,407381,NM_006206.6(PDGFRA):c.838G>T (p.Ala280Ser),Conflicting classifications of pathogenicity
+PDGFRA,407378,NM_006206.6(PDGFRA):c.94C>A (p.Pro32Thr),Uncertain significance
+PDGFRA,394609,GRCh37/hg19 4p16.3-q35.2(chr4:12440-190904441)x3,Pathogenic
+PDGFRA,240344,NM_006206.6(PDGFRA):c.3179T>A (p.Ile1060Asn),Conflicting classifications of pathogenicity
+PDGFRA,240336,NM_006206.6(PDGFRA):c.2880+5G>A,Conflicting classifications of pathogenicity
+PDGFRA,41795,NM_006206.6(PDGFRA):c.1700C>T (p.Pro567Leu),Uncertain significance
+PDGFRA,13546,NM_006206.6(PDGFRA):c.1682T>A (p.Val561Asp),Conflicting classifications of pathogenicity
+PDGFRA,13544,NM_006206.6(PDGFRA):c.2526_2537del (p.Ile843_Asp846del),Conflicting classifications of pathogenicity
+PDGFRA,13543,NM_006206.6(PDGFRA):c.2525A>T (p.Asp842Val),Conflicting classifications of pathogenicity

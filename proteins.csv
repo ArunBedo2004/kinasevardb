@@ -1,0 +1,9 @@
+gene_symbol,uniprot_id,protein_name,sequence_length
+EGFR,P00533,Epidermal growth factor receptor,1210
+BRAF,P15056,Serine/threonine-protein kinase B-raf,766
+ALK,Q9UM73,ALK tyrosine kinase receptor,1620
+ERBB2,P04626,Receptor tyrosine-protein kinase erbB-2,1255
+MET,P08581,Hepatocyte growth factor receptor,1390
+RET,P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,1114
+KIT,P10721,Mast/stem cell growth factor receptor Kit,976
+PDGFRA,P16234,Platelet-derived growth factor receptor alpha,1089
