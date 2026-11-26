@@ -1,26 +1,39 @@
-# KinaseVarDB — Cancer Kinase Variants & Inhibitors
+# KinaseVarDB
 
-An end-to-end data pipeline and interactive Streamlit dashboard exploring UniProt protein domains, ClinVar variants, and ChEMBL targeted inhibitors across 8 cancer-relevant kinase genes (`BRAF`, `ALK`, `KIT`, `RET`, `MET`, `PDGFRA`, `ERBB2`, and `EGFR`).
+An end-to-end bioinformatics data pipeline and interactive Streamlit dashboard exploring cancer kinase protein domains, ClinVar variants, and ChEMBL targeted inhibitors.
+
+- **Live App:** https://kinasevardb.streamlit.app
+- **GitHub Repository:** https://github.com/ArunBedo2004/kinasevardb
+
+## Overview
+
+**KinaseVarDB** integrates data from **UniProt**, **ClinVar**, and **ChEMBL** into a SQLite database (`kinasevardb.sqlite`) and provides an interactive web interface (`app.py`) to inspect protein domain architecture, amino acid variant positions, kinase-domain overlap, and targeted drugs across cancer kinases.
+
+### Key Features
+- **Multi-Source ETL Pipeline:** Numbered scripts under `etl/` (`01_fetch.py`, `02_transform.py`, `03_load.py`, and `04_fetch_drugs.py`) that fetch, transform, load, and enrich kinase domain, variant, and drug data.
+- **Relational SQLite Backend:** Defined in `schema.sql` and stored in `kinasevardb.sqlite` for fast querying.
+- **Interactive Dashboard (`app.py`):** Built with Streamlit and Plotly to switch kinase targets, filter variants within the kinase domain, visualize 1D domain-variant maps, and inspect domain, variant, and targeted inhibitor tables.
 
 ## Project Structure
 
-- `schema.sql` — SQLite schema defining `proteins`, `domains`, `variants`, and `drugs`.
-- `data/raw/` — Raw CSV datasets (`proteins.csv`, `domains.csv`, `variants.csv`).
-- `data/processed/` — Transformed datasets (`clean_proteins.csv`, `clean_domains.csv`, `clean_variants.csv`).
+- `app.py` — Streamlit and Plotly web application
+- `kinasevardb.sqlite` — SQLite database used by the app
+- `schema.sql` — Database table definitions
+- `requirements.txt` — Python dependencies (`requests`, `pandas`, `streamlit`, `plotly`)
+- `README.md` — Project documentation
+- `.gitignore` — Git ignore rules
 - `etl/`
-  - `01_fetch.py` — Fetches raw protein, domain, and variant data into `data/raw/`.
-  - `02_transform.py` — Parses HGVS protein, range, and frameshift positions (`aa_position`), flags kinase-domain overlap (`in_kinase_domain`, `matched_domain`), and writes `data/processed/`.
-  - `03_load.py` — Validates columns against SQLite `PRAGMA` metadata, deduplicates records, and loads `kinasevardb.sqlite` idempotently.
-  - `04_fetch_drugs.py` — Fetches targeted kinase inhibitors (Phase ≥ 2) and loads `drugs` data.
-- `app.py` — Streamlit dashboard with gene selection, kinase-domain filtering, an interactive Plotly 1D Domain & Variant Map, domain/variant/inhibitor tables, and a cross-gene variant summary.
-- `kinasevardb.sqlite` — Local SQLite database queried by `app.py`.
-- `requirements.txt` — Python dependencies for the pipeline and dashboard.
+  - `01_fetch.py` — Fetches source data
+  - `02_transform.py` — Cleans and transforms records
+  - `03_load.py` — Loads data into SQLite
+  - `04_fetch_drugs.py` — Fetches targeted inhibitor data
+- `data/`
+  - `raw/` — Raw CSV files (`domains.csv`, `proteins.csv`, `variants.csv`)
+  - `processed/` — Processed datasets
 
-## Setup & Usage
+## Running Locally
 
-1. Create and activate a virtual environment, then install dependencies:
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/ArunBedo2004/kinasevardb.git](https://github.com/ArunBedo2004/kinasevardb.git)
+   cd kinasevardb
