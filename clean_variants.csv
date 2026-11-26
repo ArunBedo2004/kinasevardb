@@ -1,0 +1,271 @@
+gene_symbol,variant_id,variant_title,clinical_significance,aa_position,aa_end_position,in_kinase_domain,matched_domain
+EGFR,2028937,NM_005228.5(EGFR):c.1498+1G>T,Likely pathogenic,,,0,
+EGFR,1703560,Single allele,Pathogenic,,,0,
+EGFR,1347255,NM_005228.5(EGFR):c.1881-2A>G,Conflicting classifications of pathogenicity,,,0,
+EGFR,1064235,NM_005228.5(EGFR):c.250G>C (p.Glu84Gln),Uncertain significance,84.0,84.0,0,
+EGFR,1046386,NM_005228.5(EGFR):c.1919+2T>G,Conflicting classifications of pathogenicity,,,0,
+EGFR,687427,GRCh37/hg19 7p22.3-q36.3(chr7:10365-159119707)x3,Pathogenic,,,0,
+EGFR,442834,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707)x3,Pathogenic,,,0,
+EGFR,442833,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707),Pathogenic,,,0,
+EGFR,402244,TMEM106B-BRAF fusion,Pathogenic,,,0,
+EGFR,376395,NM_005228.5(EGFR):c.865G>A (p.Ala289Thr),Uncertain significance,289.0,289.0,0,
+EGFR,242972,NC_000007.13:g.(20954043_21001537)_(114528369_114556605)inv,Pathogenic,,,0,
+EGFR,146075,GRCh38/hg38 7p22.3-q36.3(chr7:54185-159282390)x1,Pathogenic,,,0,
+EGFR,59680,GRCh38/hg38 7p14.3-q11.21(chr7:33328312-62377476)x3,Pathogenic,,,0,
+EGFR,45277,NM_005228.5(EGFR):c.2497T>G (p.Leu833Val),Conflicting classifications of pathogenicity,833.0,833.0,1,Protein kinase
+BRAF,4884743,GRCh37/hg19 7q21.12-36.3(chr7:88192865-159128556)x3,Pathogenic,,,0,
+BRAF,1703560,Single allele,Pathogenic,,,0,
+BRAF,1461844,NM_004333.6(BRAF):c.229A>G (p.Ile77Val),Uncertain significance,77.0,77.0,0,
+BRAF,1325840,NM_004333.6(BRAF):c.1454T>G (p.Leu485Trp),Pathogenic,485.0,485.0,1,Protein kinase
+BRAF,1317489,NM_004333.6(BRAF):c.1738A>G (p.Asn580Asp),Pathogenic,580.0,580.0,1,Protein kinase
+BRAF,977327,NM_004333.6(BRAF):c.1820C>T (p.Ser607Phe),Uncertain significance,607.0,607.0,1,Protein kinase
+BRAF,910577,NM_004333.6(BRAF):c.1056T>A (p.Asp352Glu),Uncertain significance,352.0,352.0,1,Disordered
+BRAF,687427,GRCh37/hg19 7p22.3-q36.3(chr7:10365-159119707)x3,Pathogenic,,,0,
+BRAF,599445,NM_004333.6(BRAF):c.1388_1408dup (p.Ile463_Gly469dup),Likely pathogenic,463.0,469.0,1,Protein kinase
+BRAF,579533,NM_004333.6(BRAF):c.68T>A (p.Met23Lys),Benign/Likely benign,23.0,23.0,1,Disordered
+BRAF,563422,GRCh37/hg19 7q22.1-36.3(chr7:98693388-159119707)x3,Pathogenic,,,0,
+BRAF,500454,NM_004333.6(BRAF):c.1207C>G (p.Pro403Ala),Conflicting classifications of pathogenicity,403.0,403.0,1,Disordered
+BRAF,442834,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707)x3,Pathogenic,,,0,
+BRAF,442833,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707),Pathogenic,,,0,
+BRAF,417225,NM_004333.6(BRAF):c.976A>G (p.Ile326Val),Benign,326.0,326.0,1,Disordered
+BRAF,402244,TMEM106B-BRAF fusion,Pathogenic,,,0,
+BRAF,376073,NM_004333.6(BRAF):c.1397G>A (p.Gly466Glu),Conflicting classifications of pathogenicity,466.0,466.0,1,Protein kinase
+BRAF,375941,NM_004333.6(BRAF):c.1798_1799delinsAA (p.Val600Lys),Uncertain significance,600.0,600.0,1,Protein kinase
+BRAF,202193,NM_004333.6(BRAF):c.1783T>C (p.Phe595Leu),Pathogenic/Likely pathogenic,595.0,595.0,1,Protein kinase
+BRAF,180723,NM_004333.6(BRAF):c.785A>G (p.Gln262Arg),Pathogenic/Likely pathogenic,262.0,262.0,0,
+BRAF,177844,NM_004333.6(BRAF):c.1455G>T (p.Leu485Phe),Pathogenic,485.0,485.0,1,Protein kinase
+BRAF,162793,NM_004333.6(BRAF):c.1794_1796dup (p.Thr599dup),Pathogenic,599.0,599.0,1,Protein kinase
+BRAF,147547,GRCh38/hg38 7q21.3-36.3(chr7:97419852-158923762)x3,Pathogenic,,,0,
+BRAF,146075,GRCh38/hg38 7p22.3-q36.3(chr7:54185-159282390)x1,Pathogenic,,,0,
+BRAF,136535,NM_004333.6(BRAF):c.2128-16C>T,Benign/Likely benign,,,0,
+BRAF,44821,NM_004333.6(BRAF):c.2128-5del,Benign/Likely benign,,,0,
+BRAF,44817,NM_004333.6(BRAF):c.1799_1801del (p.Val600_Lys601delinsGlu),Likely pathogenic,600.0,601.0,1,Protein kinase
+BRAF,44813,NM_004333.6(BRAF):c.1780G>A (p.Asp594Asn),Likely pathogenic,594.0,594.0,1,Protein kinase
+BRAF,44803,NM_004333.6(BRAF):c.1406G>T (p.Gly469Val),Pathogenic,469.0,469.0,1,Protein kinase
+BRAF,44801,NM_004333.6(BRAF):c.1396G>A (p.Gly466Arg),Pathogenic/Likely pathogenic,466.0,466.0,1,Protein kinase
+BRAF,41446,NM_004333.6(BRAF):c.1801A>C (p.Lys601Gln),Pathogenic,601.0,601.0,1,Protein kinase
+BRAF,40389,NM_004333.6(BRAF):c.1799T>G (p.Val600Gly),Pathogenic,600.0,600.0,1,Protein kinase
+BRAF,40387,NM_004333.6(BRAF):c.1787G>T (p.Gly596Val),Pathogenic,596.0,596.0,1,Protein kinase
+BRAF,40365,NM_004333.6(BRAF):c.1391G>C (p.Gly464Ala),Conflicting classifications of pathogenicity,464.0,464.0,1,Protein kinase
+BRAF,40364,NM_004333.6(BRAF):c.1391G>T (p.Gly464Val),Pathogenic/Likely pathogenic,464.0,464.0,1,Protein kinase
+BRAF,40346,NM_004333.6(BRAF):c.730A>C (p.Thr244Pro),Pathogenic,244.0,244.0,0,
+BRAF,13979,NM_004333.6(BRAF):c.1741A>G (p.Asn581Asp),Pathogenic,581.0,581.0,1,Protein kinase
+BRAF,13978,NM_004333.6(BRAF):c.1502A>G (p.Glu501Gly),Pathogenic/Likely pathogenic,501.0,501.0,1,Protein kinase
+BRAF,13975,NM_004333.6(BRAF):c.1455G>C (p.Leu485Phe),Pathogenic,485.0,485.0,1,Protein kinase
+BRAF,13973,NM_004333.6(BRAF):c.770A>G (p.Gln257Arg),Pathogenic,257.0,257.0,0,
+BRAF,13972,NM_004333.6(BRAF):c.1781A>G (p.Asp594Gly),Conflicting classifications of pathogenicity,594.0,594.0,1,Protein kinase
+BRAF,13971,NM_004333.6(BRAF):c.1406G>C (p.Gly469Ala),Pathogenic,469.0,469.0,1,Protein kinase
+BRAF,13969,NM_004333.6(BRAF):c.1789C>G (p.Leu597Val),Pathogenic,597.0,597.0,1,Protein kinase
+BRAF,13968,NM_004333.6(BRAF):c.1790T>G (p.Leu597Arg),Pathogenic,597.0,597.0,1,Protein kinase
+BRAF,13966,NM_004333.6(BRAF):c.1801A>G (p.Lys601Glu),Pathogenic,601.0,601.0,1,Protein kinase
+BRAF,13964,NM_004333.6(BRAF):c.1391G>A (p.Gly464Glu),Pathogenic,464.0,464.0,1,Protein kinase
+BRAF,13961,NM_004333.6(BRAF):c.1799T>A (p.Val600Glu),Conflicting classifications of pathogenicity,600.0,600.0,1,Protein kinase
+ALK,4530187,NM_004304.5(ALK):c.3512T>G (p.Ile1171Ser),,1171.0,1171.0,1,Protein kinase
+ALK,4530185,NM_004304.5(ALK):c.3832T>G (p.Tyr1278Asp),,1278.0,1278.0,1,Protein kinase
+ALK,4530184,NM_004304.5(ALK):c.3824G>T (p.Arg1275Leu),,1275.0,1275.0,1,Protein kinase
+ALK,3853571,NM_004304.5(ALK):c.805G>T (p.Asp269Tyr),Uncertain significance,269.0,269.0,1,MAM 1
+ALK,3679390,NM_004304.5(ALK):c.2133C>G (p.Ser711Arg),Uncertain significance,711.0,711.0,0,
+ALK,3223826,NM_004304.5(ALK):c.2240G>A (p.Gly747Glu),Uncertain significance,747.0,747.0,0,
+ALK,3011321,NM_004304.5(ALK):c.4186G>T (p.Ala1396Ser),Uncertain significance,1396.0,1396.0,0,
+ALK,2693976,NM_004304.5(ALK):c.1357C>T (p.Gln453Ter),Uncertain significance,453.0,453.0,1,LDL-receptor class A
+ALK,2675809,NM_004304.5(ALK):c.4543C>A (p.Pro1515Thr),Uncertain significance,1515.0,1515.0,1,Disordered
+ALK,2561058,NM_004304.5(ALK):c.1888A>T (p.Ile630Phe),Uncertain significance,630.0,630.0,1,MAM 2
+ALK,2119820,NM_004304.5(ALK):c.2928C>A (p.His976Gln),Uncertain significance,976.0,976.0,0,
+ALK,2091579,NM_004304.5(ALK):c.2977G>A (p.Asp993Asn),Uncertain significance,993.0,993.0,1,EGF-like
+ALK,1739323,NM_004304.5(ALK):c.427C>A (p.Leu143Met),Uncertain significance,143.0,143.0,0,
+ALK,1487852,NM_004304.5(ALK):c.3095C>A (p.Pro1032Gln),Uncertain significance,1032.0,1032.0,0,
+ALK,1460580,NM_004304.5(ALK):c.3626G>C (p.Arg1209Pro),Uncertain significance,1209.0,1209.0,1,Protein kinase
+ALK,1426854,NM_004304.5(ALK):c.3067+1G>T,Uncertain significance,,,0,
+ALK,1367317,NM_004304.5(ALK):c.77G>A (p.Gly26Asp),Uncertain significance,26.0,26.0,0,
+ALK,1351397,NM_004304.5(ALK):c.3360-1G>A,Uncertain significance,,,0,
+ALK,1064376,NM_004304.5(ALK):c.2633-2A>G,Uncertain significance,,,0,
+ALK,1024513,NM_004304.5(ALK):c.1663C>T (p.Leu555Phe),Uncertain significance,555.0,555.0,1,MAM 2
+ALK,1023757,NM_004304.5(ALK):c.3005A>C (p.His1002Pro),Uncertain significance,1002.0,1002.0,1,EGF-like
+ALK,1019332,NM_004304.5(ALK):c.322G>A (p.Val108Ile),Uncertain significance,108.0,108.0,0,
+ALK,1006268,NM_004304.5(ALK):c.2710C>T (p.His904Tyr),Uncertain significance,904.0,904.0,0,
+ALK,1003201,NM_004304.5(ALK):c.3067+9G>T,Conflicting classifications of pathogenicity,,,0,
+ALK,1000895,NM_004304.5(ALK):c.2144G>A (p.Gly715Glu),Uncertain significance,715.0,715.0,0,
+ALK,957683,NM_004304.5(ALK):c.701C>T (p.Pro234Leu),Uncertain significance,234.0,234.0,0,
+ALK,954603,NM_004304.5(ALK):c.2535_2536inv (p.Gly846Ser),Uncertain significance,846.0,846.0,0,
+ALK,947158,NM_004304.5(ALK):c.4860_*12del (p.Ter1621LeuextTer?),Uncertain significance,1621.0,1621.0,0,
+ALK,843692,NM_004304.5(ALK):c.3376G>A (p.Ala1126Thr),Uncertain significance,1126.0,1126.0,1,Protein kinase
+ALK,841128,NM_004304.5(ALK):c.3836+6T>G,Uncertain significance,,,0,
+ALK,836167,NM_004304.5(ALK):c.623T>C (p.Ile208Thr),Uncertain significance,208.0,208.0,0,
+ALK,644322,NM_004304.5(ALK):c.3130C>T (p.Leu1044Phe),Uncertain significance,1044.0,1044.0,0,
+ALK,639161,NM_004304.5(ALK):c.3884G>A (p.Trp1295Ter),Uncertain significance,1295.0,1295.0,1,Protein kinase
+ALK,582424,NM_004304.5(ALK):c.343C>T (p.Pro115Ser),Uncertain significance,115.0,115.0,0,
+ALK,569201,NM_004304.5(ALK):c.2489T>C (p.Met830Thr),Uncertain significance,830.0,830.0,0,
+ALK,567581,NM_004304.5(ALK):c.4454C>T (p.Pro1485Leu),Uncertain significance,1485.0,1485.0,0,
+ALK,566374,NM_004304.5(ALK):c.221C>T (p.Pro74Leu),Uncertain significance,74.0,74.0,0,
+ALK,538251,NM_004304.5(ALK):c.2504C>T (p.Pro835Leu),Uncertain significance,835.0,835.0,0,
+ALK,538203,NM_004304.5(ALK):c.2821A>C (p.Asn941His),Uncertain significance,941.0,941.0,0,
+ALK,538188,NM_004304.5(ALK):c.4768G>A (p.Gly1590Ser),Uncertain significance,1590.0,1590.0,0,
+ALK,470884,NM_004304.5(ALK):c.4738G>A (p.Gly1580Arg),Uncertain significance,1580.0,1580.0,0,
+ALK,470828,NM_004304.5(ALK):c.3421G>A (p.Asp1141Asn),Uncertain significance,1141.0,1141.0,1,Protein kinase
+ALK,470813,NM_004304.5(ALK):c.298A>G (p.Arg100Gly),Uncertain significance,100.0,100.0,0,
+ALK,470744,NM_004304.5(ALK):c.1279G>A (p.Glu427Lys),Conflicting classifications of pathogenicity,427.0,427.0,1,MAM 1
+ALK,470735,NM_004304.5(ALK):c.1108G>A (p.Glu370Lys),Conflicting classifications of pathogenicity,370.0,370.0,1,MAM 1
+ALK,404393,NM_004304.5(ALK):c.1390G>A (p.Gly464Arg),Uncertain significance,464.0,464.0,1,LDL-receptor class A
+ALK,404385,NM_004304.5(ALK):c.775C>T (p.Arg259Cys),Conflicting classifications of pathogenicity,259.0,259.0,0,
+ALK,404357,NM_004304.5(ALK):c.3337C>T (p.Arg1113Trp),Uncertain significance,1113.0,1113.0,0,
+ALK,404336,NM_004304.5(ALK):c.4795C>T (p.Pro1599Ser),Conflicting classifications of pathogenicity,1599.0,1599.0,0,
+ALK,404335,NM_004304.5(ALK):c.3160G>A (p.Gly1054Ser),Conflicting classifications of pathogenicity,1054.0,1054.0,0,
+ALK,375887,NM_004304.5(ALK):c.3521T>G (p.Phe1174Cys),Likely pathogenic,1174.0,1174.0,1,Protein kinase
+ALK,335718,NM_004304.5(ALK):c.32C>T (p.Pro11Leu),Conflicting classifications of pathogenicity,11.0,11.0,0,
+ALK,259272,NM_004304.5(ALK):c.4165-6C>T,Benign,,,0,
+ALK,259271,NM_004304.5(ALK):c.3359+6C>T,Benign,,,0,
+ALK,217856,NM_004304.5(ALK):c.3734T>G (p.Phe1245Cys),Pathogenic,1245.0,1245.0,1,Protein kinase
+ALK,217855,NM_004304.5(ALK):c.3733T>A (p.Phe1245Ile),Pathogenic,1245.0,1245.0,1,Protein kinase
+ALK,217852,NM_004304.5(ALK):c.3522C>G (p.Phe1174Leu),Pathogenic,1174.0,1174.0,1,Protein kinase
+ALK,217850,NM_004304.5(ALK):c.3520T>A (p.Phe1174Ile),Pathogenic,1174.0,1174.0,1,Protein kinase
+ALK,133482,NM_004304.5(ALK):c.1100C>G (p.Pro367Arg),Conflicting classifications of pathogenicity,367.0,367.0,1,MAM 1
+ALK,133462,NM_004304.5(ALK):c.2039C>T (p.Thr680Ile),Benign/Likely benign,680.0,680.0,0,
+ALK,65671,NM_004304.5(ALK):c.3733T>G (p.Phe1245Val),Likely pathogenic,1245.0,1245.0,1,Protein kinase
+ALK,18084,NM_004304.5(ALK):c.3383G>C (p.Gly1128Ala),Pathogenic; risk factor,1128.0,1128.0,1,Protein kinase
+ALK,18083,NM_004304.5(ALK):c.3824G>A (p.Arg1275Gln),Pathogenic,1275.0,1275.0,1,Protein kinase
+ERBB2,4420957,NM_004448.4(ERBB2):c.2264T>G (p.Leu755Trp),,755.0,755.0,1,Protein kinase
+ERBB2,4420941,NM_004448.4(ERBB2):c.643+48G>A,,,,0,
+ERBB2,4420935,NM_001005862.3(ERBB2):c.-18+1G>T,,,,0,
+ERBB2,3242217,GRCh37/hg19 17q12-22(chr17:41196270-41277589),Pathogenic,,,0,
+ERBB2,441816,GRCh37/hg19 17p13.3-q25.3(chr17:526-81041938)x3,Pathogenic,,,0,
+ERBB2,441815,GRCh37/hg19 17p13.3-q25.3(chr17:526-81041938),Pathogenic,,,0,
+ERBB2,375994,NM_004448.4(ERBB2):c.2524G>A (p.Val842Ile),Uncertain significance,842.0,842.0,1,Protein kinase
+ERBB2,148363,GRCh38/hg38 17q23.1-25.1(chr17:36449220-75053130)x3,Pathogenic,,,0,
+ERBB2,58696,GRCh38/hg38 17q12-21.31(chr17:39199873-45629579)x3,Pathogenic,,,0,
+ERBB2,57282,GRCh38/hg38 17q21.33-24.2(chr17:36449220-68170214)x3,Pathogenic,,,0,
+MET,4884743,GRCh37/hg19 7q21.12-36.3(chr7:88192865-159128556)x3,Pathogenic,,,0,
+MET,2501298,NM_000245.4(MET):c.3400T>A (p.Phe1134Ile),Uncertain significance,1134.0,1134.0,1,Protein kinase
+MET,1703560,Single allele,Pathogenic,,,0,
+MET,1318641,NM_000245.4(MET):c.107A>G (p.Asn36Ser),Uncertain significance,36.0,36.0,1,Sema
+MET,1318632,NM_000245.4(MET):c.3133C>A (p.Pro1045Thr),Uncertain significance,1045.0,1045.0,0,
+MET,983225,NM_000245.4(MET):c.3028G>A (p.Asp1010Asn),Uncertain significance,1010.0,1010.0,0,
+MET,951021,NM_000245.4(MET):c.1986T>G (p.Ile662Met),Uncertain significance,662.0,662.0,1,IPT/TIG 2
+MET,823428,NM_000245.4(MET):c.3230T>C (p.Ile1077Thr),Uncertain significance,1077.0,1077.0,0,
+MET,687427,GRCh37/hg19 7p22.3-q36.3(chr7:10365-159119707)x3,Pathogenic,,,0,
+MET,660337,NM_000245.4(MET):c.1430T>A (p.Val477Glu),Uncertain significance,477.0,477.0,1,Sema
+MET,569622,NM_000245.4(MET):c.4145G>C (p.Arg1382Pro),Uncertain significance,1382.0,1382.0,1,Interaction with RANBP9
+MET,563422,GRCh37/hg19 7q22.1-36.3(chr7:98693388-159119707)x3,Pathogenic,,,0,
+MET,480850,NM_000245.4(MET):c.1099A>G (p.Ile367Val),Conflicting classifications of pathogenicity,367.0,367.0,1,Sema
+MET,454250,NM_000245.4(MET):c.3997C>G (p.Leu1333Val),Uncertain significance,1333.0,1333.0,1,Protein kinase
+MET,442834,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707)x3,Pathogenic,,,0,
+MET,442833,GRCh37/hg19 7p22.3-q36.3(chr7:43361-159119707),Pathogenic,,,0,
+MET,402244,TMEM106B-BRAF fusion,Pathogenic,,,0,
+MET,376126,NM_000245.4(MET):c.3749T>C (p.Met1250Thr),Likely pathogenic,1250.0,1250.0,1,Protein kinase
+MET,216508,NM_000245.4(MET):c.3521A>G (p.His1174Arg),Conflicting classifications of pathogenicity,1174.0,1174.0,1,Protein kinase
+MET,194024,NM_000245.4(MET):c.2584-7del,Conflicting classifications of pathogenicity,,,0,
+MET,147547,GRCh38/hg38 7q21.3-36.3(chr7:97419852-158923762)x3,Pathogenic,,,0,
+MET,146075,GRCh38/hg38 7p22.3-q36.3(chr7:54185-159282390)x1,Pathogenic,,,0,
+MET,135974,NM_000245.4(MET):c.65G>T (p.Ser22Ile),Conflicting classifications of pathogenicity,22.0,22.0,0,
+MET,135960,NM_000245.4(MET):c.1412G>A (p.Gly471Glu),Conflicting classifications of pathogenicity,471.0,471.0,1,Sema
+MET,93579,NM_000245.4(MET):c.654G>A (p.Arg218=),Benign/Likely benign,218.0,218.0,1,Sema
+MET,93578,NM_000245.4(MET):c.534C>T (p.Ser178=),Benign,178.0,178.0,1,Sema
+MET,93577,NM_000245.4(MET):c.4117G>C (p.Asp1373His),Conflicting classifications of pathogenicity,1373.0,1373.0,1,Interaction with RANBP9
+MET,93576,NM_000245.4(MET):c.4092G>A (p.Pro1364=),Benign,1364.0,1364.0,1,Interaction with RANBP9
+MET,93574,NM_000245.4(MET):c.3858C>T (p.Asp1286=),Benign,1286.0,1286.0,1,Protein kinase
+MET,93569,NM_000245.4(MET):c.1944A>G (p.Gln648=),Benign/Likely benign,648.0,648.0,1,IPT/TIG 1
+MET,93567,NM_000245.4(MET):c.144G>A (p.Ala48=),Benign/Likely benign,48.0,48.0,1,Sema
+MET,93566,NM_000245.4(MET):c.1131C>T (p.Ile377=),Benign,377.0,377.0,1,Sema
+MET,93564,NM_000245.4(MET):c.1076G>A (p.Arg359Gln),Conflicting classifications of pathogenicity,359.0,359.0,1,Sema
+MET,13885,NM_000245.4(MET):c.3689A>G (p.Tyr1230Cys),Conflicting classifications of pathogenicity,1230.0,1230.0,1,Protein kinase
+MET,13884,NM_000245.4(MET):c.3682G>A (p.Asp1228Asn),Uncertain significance,1228.0,1228.0,1,Protein kinase
+RET,4363010,NM_020975.6(RET):c.1648+88C>G,,,,0,
+RET,4363005,NM_020975.6(RET):c.74-56G>T,,,,0,
+RET,2684602,GRCh37/hg19 10q11.21-24.2(chr10:42709645-100834951)x3,Pathogenic,,,0,
+RET,2574696,GRCh37/hg19 10p14-q26.3(chr10:11138692-135427143),Pathogenic,,,0,
+RET,2574686,GRCh37/hg19 10p13-q26.3(chr10:12829206-135427143),Pathogenic,,,0,
+RET,1799271,NM_020975.6(RET):c.3051C>A (p.Asp1017Glu),Uncertain significance,1017.0,1017.0,0,
+RET,959187,NM_020975.6(RET):c.2078G>A (p.Arg693His),Uncertain significance,693.0,693.0,0,
+RET,870394,NM_020975.6(RET):c.2629G>C (p.Ala877Pro),Likely pathogenic,877.0,877.0,1,Protein kinase
+RET,851935,NM_020975.6(RET):c.3192G>A (p.Met1064Ile),Conflicting classifications of pathogenicity,1064.0,1064.0,0,
+RET,695031,NM_020975.6(RET):c.1753T>C (p.Cys585Arg),Likely pathogenic,585.0,585.0,0,
+RET,572175,NM_020975.6(RET):c.1423C>T (p.Arg475Trp),Uncertain significance,475.0,475.0,1,Cadherin-like region 4 (CLD4)
+RET,569870,NM_020975.6(RET):c.224C>T (p.Thr75Met),Conflicting classifications of pathogenicity,75.0,75.0,1,Cadherin-like region 1 (CLD1)
+RET,477303,NM_020975.6(RET):c.1090A>G (p.Ile364Val),Conflicting classifications of pathogenicity,364.0,364.0,1,Cadherin-like region 3 (CLD3)
+RET,443260,GRCh37/hg19 10p15.3-q11.23(chr10:100026-50961640)x3,Pathogenic,,,0,
+RET,441987,GRCh37/hg19 10p15.3-q26.3(chr10:100027-135427143),Pathogenic,,,0,
+RET,441986,GRCh37/hg19 10p15.3-q26.3(chr10:100027-135427143)x3,Pathogenic,,,0,
+RET,423343,NM_020975.6(RET):c.175G>A (p.Ala59Thr),Conflicting classifications of pathogenicity,59.0,59.0,1,Cadherin-like region 1 (CLD1)
+RET,405541,NM_020975.6(RET):c.235C>T (p.Arg79Trp),Conflicting classifications of pathogenicity,79.0,79.0,1,Cadherin-like region 1 (CLD1)
+RET,405538,NM_020975.6(RET):c.134C>T (p.Ala45Val),Uncertain significance,45.0,45.0,1,Cadherin-like region 1 (CLD1)
+RET,405529,NM_020975.6(RET):c.1151C>G (p.Pro384Arg),Conflicting classifications of pathogenicity,384.0,384.0,0,
+RET,393995,GRCh37/hg19 10p15.3-q26.3(chr10:93297-135378918)x3,Pathogenic,,,0,
+RET,373412,NM_020975.6(RET):c.361G>A (p.Val121Ile),Conflicting classifications of pathogenicity,121.0,121.0,1,Cadherin-like region 1 (CLD1)
+RET,241333,NM_020975.6(RET):c.1063+9G>A,Conflicting classifications of pathogenicity,,,0,
+RET,230926,NM_020975.6(RET):c.1998G>C (p.Lys666Asn),Pathogenic/Likely pathogenic,666.0,666.0,0,
+RET,220530,NM_020975.6(RET):c.2477A>C (p.Tyr826Ser),Conflicting classifications of pathogenicity,826.0,826.0,1,Protein kinase
+RET,216727,NM_020975.6(RET):c.406G>A (p.Glu136Lys),Conflicting classifications of pathogenicity,136.0,136.0,1,Cadherin-like region 1 (CLD1)
+RET,216726,NM_020975.6(RET):c.334C>T (p.Arg112Cys),Conflicting classifications of pathogenicity,112.0,112.0,1,Cadherin-like region 1 (CLD1)
+RET,184536,NM_020975.6(RET):c.604G>A (p.Val202Met),Uncertain significance,202.0,202.0,1,Cadherin
+RET,154900,GRCh38/hg38 10q11.21-21.3(chr10:42112187-67400675)x3,Pathogenic,,,0,
+RET,136120,NM_020975.6(RET):c.335G>A (p.Arg112His),Conflicting classifications of pathogenicity,112.0,112.0,1,Cadherin-like region 1 (CLD1)
+RET,136103,NM_020975.6(RET):c.1699G>A (p.Asp567Asn),Conflicting classifications of pathogenicity,567.0,567.0,0,
+RET,136094,NM_020975.6(RET):c.1095G>A (p.Ser365=),Conflicting classifications of pathogenicity,365.0,365.0,1,Cadherin-like region 3 (CLD3)
+RET,132713,NM_020975.6(RET):c.1264-5C>T,Benign/Likely benign,,,0,
+RET,41845,NM_020975.6(RET):c.785T>C (p.Val262Ala),Conflicting classifications of pathogenicity,262.0,262.0,1,Cadherin
+RET,41842,NM_020975.6(RET):c.2611G>A (p.Val871Ile),Conflicting classifications of pathogenicity,871.0,871.0,1,Protein kinase
+RET,38613,NM_020975.6(RET):c.2410G>C (p.Val804Leu),Pathogenic/Likely pathogenic,804.0,804.0,1,Protein kinase
+RET,24968,NM_020975.6(RET):c.2735G>C (p.Arg912Pro),Uncertain significance,912.0,912.0,1,Protein kinase
+RET,24960,NM_020975.6(RET):c.2656C>T (p.Arg886Trp),Conflicting classifications of pathogenicity,886.0,886.0,1,Protein kinase
+RET,24955,NM_020975.6(RET):c.2556C>G (p.Ile852Met),Conflicting classifications of pathogenicity,852.0,852.0,1,Protein kinase
+RET,24937,NM_020975.6(RET):c.2330A>G (p.Asn777Ser),Uncertain significance,777.0,777.0,1,Protein kinase
+RET,24905,NM_020975.6(RET):c.1858T>G (p.Cys620Gly),Pathogenic,620.0,620.0,0,
+RET,13950,NM_020975.6(RET):c.1597G>T (p.Gly533Cys),Pathogenic,533.0,533.0,0,
+RET,13938,NM_020975.6(RET):c.2944C>T (p.Arg982Cys),Conflicting classifications of pathogenicity,982.0,982.0,1,Protein kinase
+RET,13935,NM_020975.6(RET):c.2370G>C (p.Leu790Phe),Pathogenic/Likely pathogenic,790.0,790.0,1,Protein kinase
+RET,13929,NM_020975.6(RET):c.1852T>C (p.Cys618Arg),Pathogenic/Likely pathogenic,618.0,618.0,0,
+RET,13926,NM_020975.6(RET):c.989G>A (p.Arg330Gln),Conflicting classifications of pathogenicity,330.0,330.0,1,Cadherin-like region 3 (CLD3)
+RET,13919,NM_020975.6(RET):c.2753T>C (p.Met918Thr),Pathogenic/Likely pathogenic,918.0,918.0,1,Protein kinase
+RET,13917,NM_020975.6(RET):c.1900T>C (p.Cys634Arg),Pathogenic/Likely pathogenic,634.0,634.0,0,
+RET,13909,NM_020975.6(RET):c.1901G>A (p.Cys634Tyr),Pathogenic/Likely pathogenic,634.0,634.0,0,
+RET,13908,NM_020975.6(RET):c.1900T>G (p.Cys634Gly),Pathogenic,634.0,634.0,0,
+KIT,4306564,NM_000222.3(KIT):c.2362-143A>T,,,,0,
+KIT,4306560,NM_000222.3(KIT):c.1775-52A>T,,,,0,
+KIT,3647912,NM_000222.3(KIT):c.2142-2A>G,Likely pathogenic,,,0,
+KIT,3024631,GRCh37/hg19 4p12-q35.2(chr4:45455621-191003541)x3,Pathogenic,,,0,
+KIT,2579174,GRCh38/hg38 4p16.3-q12(chr4:85624-57073230)x3,Pathogenic,,,0,
+KIT,1716236,NM_000222.3(KIT):c.2446G>A (p.Asp816Asn),Uncertain significance,816.0,816.0,1,Protein kinase
+KIT,1340288,GRCh37/hg19 4q12-31.21(chr4:52866944-143582507)x3,Pathogenic,,,0,
+KIT,664356,NM_000222.3(KIT):c.1638A>T (p.Lys546Asn),Uncertain significance,546.0,546.0,0,
+KIT,651292,NM_000222.3(KIT):c.1526A>T (p.Lys509Ile),Pathogenic,509.0,509.0,0,
+KIT,565576,NM_000222.3(KIT):c.1861G>A (p.Ala621Thr),Pathogenic/Likely pathogenic,621.0,621.0,1,Protein kinase
+KIT,441812,GRCh37/hg19 4p16.3-q13.1(chr4:68345-66440622)x3,Pathogenic,,,0,
+KIT,441728,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473),Pathogenic,,,0,
+KIT,441727,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473)x3,Pathogenic,,,0,
+KIT,409787,NM_000222.3(KIT):c.2867G>A (p.Arg956Gln),Conflicting classifications of pathogenicity,956.0,956.0,0,
+KIT,409780,NM_000222.3(KIT):c.182C>T (p.Pro61Leu),Conflicting classifications of pathogenicity,61.0,61.0,1,Ig-like C2-type 1
+KIT,409778,NM_000222.3(KIT):c.2105T>C (p.Leu702Pro),Uncertain significance,702.0,702.0,1,Protein kinase
+KIT,409758,NM_000222.3(KIT):c.2663G>A (p.Arg888Gln),Conflicting classifications of pathogenicity,888.0,888.0,1,Protein kinase
+KIT,409718,NM_000222.3(KIT):c.1351T>C (p.Ser451Pro),Conflicting classifications of pathogenicity,451.0,451.0,1,Ig-like C2-type 5
+KIT,394609,GRCh37/hg19 4p16.3-q35.2(chr4:12440-190904441)x3,Pathogenic,,,0,
+KIT,375933,NM_000222.3(KIT):c.2485G>C (p.Ala829Pro),Pathogenic,829.0,829.0,1,Protein kinase
+KIT,375932,NM_000222.3(KIT):c.2466T>G (p.Asn822Lys),Pathogenic/Likely pathogenic,822.0,822.0,1,Protein kinase
+KIT,375930,NM_000222.3(KIT):c.2465A>T (p.Asn822Ile),Pathogenic,822.0,822.0,1,Protein kinase
+KIT,375923,NM_000222.3(KIT):c.1965T>A (p.Asn655Lys),Pathogenic,655.0,655.0,1,Protein kinase
+KIT,375921,NM_000222.3(KIT):c.1961T>C (p.Val654Ala),Uncertain significance,654.0,654.0,1,Protein kinase
+KIT,375909,NM_000222.3(KIT):c.1669T>C (p.Trp557Arg),Pathogenic/Likely pathogenic,557.0,557.0,0,
+KIT,237272,NM_000222.3(KIT):c.2923G>A (p.Asp975Asn),Conflicting classifications of pathogenicity,975.0,975.0,0,
+KIT,220935,NM_000222.3(KIT):c.86T>A (p.Val29Glu),Conflicting classifications of pathogenicity,29.0,29.0,1,Ig-like C2-type 1
+KIT,134625,NM_000222.3(KIT):c.2554G>A (p.Val852Ile),Conflicting classifications of pathogenicity,852.0,852.0,1,Protein kinase
+KIT,13866,NM_000222.3(KIT):c.1924A>G (p.Lys642Glu),Pathogenic,642.0,642.0,1,Protein kinase
+KIT,13865,NM_000222.3(KIT):c.1676T>C (p.Val559Ala),Pathogenic/Likely pathogenic,559.0,559.0,0,
+KIT,13856,NM_000222.3(KIT):c.1676T>A (p.Val559Asp),Pathogenic,559.0,559.0,0,
+KIT,13853,NM_000222.3(KIT):c.2459A>G (p.Asp820Gly),Uncertain significance,820.0,820.0,1,Protein kinase
+KIT,13852,NM_000222.3(KIT):c.2447A>T (p.Asp816Val),Conflicting classifications of pathogenicity,816.0,816.0,1,Protein kinase
+PDGFRA,3024631,GRCh37/hg19 4p12-q35.2(chr4:45455621-191003541)x3,Pathogenic,,,0,
+PDGFRA,2579174,GRCh38/hg38 4p16.3-q12(chr4:85624-57073230)x3,Pathogenic,,,0,
+PDGFRA,2453855,NM_006206.6(PDGFRA):c.1586C>T (p.Ala529Val),Uncertain significance,529.0,529.0,0,
+PDGFRA,1793337,NM_006206.6(PDGFRA):c.2579A>G (p.Lys860Arg),Uncertain significance,860.0,860.0,1,Protein kinase
+PDGFRA,1340288,GRCh37/hg19 4q12-31.21(chr4:52866944-143582507)x3,Pathogenic,,,0,
+PDGFRA,441812,GRCh37/hg19 4p16.3-q13.1(chr4:68345-66440622)x3,Pathogenic,,,0,
+PDGFRA,441728,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473),Pathogenic,,,0,
+PDGFRA,441727,GRCh37/hg19 4p16.3-q35.2(chr4:68346-190957473)x3,Pathogenic,,,0,
+PDGFRA,407425,NM_006206.6(PDGFRA):c.1424A>C (p.Glu475Ala),Conflicting classifications of pathogenicity,475.0,475.0,1,Ig-like C2-type 5
+PDGFRA,407381,NM_006206.6(PDGFRA):c.838G>T (p.Ala280Ser),Conflicting classifications of pathogenicity,280.0,280.0,1,Ig-like C2-type 3
+PDGFRA,407378,NM_006206.6(PDGFRA):c.94C>A (p.Pro32Thr),Uncertain significance,32.0,32.0,1,Ig-like C2-type 1
+PDGFRA,394609,GRCh37/hg19 4p16.3-q35.2(chr4:12440-190904441)x3,Pathogenic,,,0,
+PDGFRA,240344,NM_006206.6(PDGFRA):c.3179T>A (p.Ile1060Asn),Conflicting classifications of pathogenicity,1060.0,1060.0,1,Disordered
+PDGFRA,240336,NM_006206.6(PDGFRA):c.2880+5G>A,Conflicting classifications of pathogenicity,,,0,
+PDGFRA,41795,NM_006206.6(PDGFRA):c.1700C>T (p.Pro567Leu),Uncertain significance,567.0,567.0,0,
+PDGFRA,13546,NM_006206.6(PDGFRA):c.1682T>A (p.Val561Asp),Conflicting classifications of pathogenicity,561.0,561.0,0,
+PDGFRA,13544,NM_006206.6(PDGFRA):c.2526_2537del (p.Ile843_Asp846del),Conflicting classifications of pathogenicity,843.0,846.0,1,Protein kinase
+PDGFRA,13543,NM_006206.6(PDGFRA):c.2525A>T (p.Asp842Val),Conflicting classifications of pathogenicity,842.0,842.0,1,Protein kinase

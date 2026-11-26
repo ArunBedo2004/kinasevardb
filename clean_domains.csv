@@ -1,0 +1,48 @@
+gene_symbol,uniprot_id,domain_name,start_pos,end_pos
+EGFR,P00533,Protein kinase,712,979
+EGFR,P00533,"Important for dimerization, phosphorylation and activation",688,704
+EGFR,P00533,Disordered,1097,1137
+BRAF,P15056,RBD,155,227
+BRAF,P15056,Protein kinase,457,717
+BRAF,P15056,Disordered,1,38
+BRAF,P15056,Disordered,308,454
+ALK,Q9UM73,MAM 1,264,427
+ALK,Q9UM73,LDL-receptor class A,437,473
+ALK,Q9UM73,MAM 2,478,636
+ALK,Q9UM73,Protein kinase,1116,1392
+ALK,Q9UM73,Heparin-binding region,48,70
+ALK,Q9UM73,Disordered,650,674
+ALK,Q9UM73,EGF-like,987,1025
+ALK,Q9UM73,Disordered,1408,1463
+ALK,Q9UM73,Disordered,1514,1540
+ERBB2,P04626,Protein kinase,720,987
+ERBB2,P04626,Required for interaction with KPNB1 and EEA1,676,689
+ERBB2,P04626,Disordered,1035,1179
+ERBB2,P04626,Interaction with PIK3C2B,1195,1197
+ERBB2,P04626,Disordered,1196,1255
+MET,P08581,Sema,27,515
+MET,P08581,IPT/TIG 1,563,655
+MET,P08581,IPT/TIG 2,657,739
+MET,P08581,IPT/TIG 3,742,836
+MET,P08581,Protein kinase,1078,1345
+MET,P08581,Interaction with RANBP9,1212,1390
+MET,P08581,Interaction with MUC20,1320,1359
+RET,P07949,Cadherin,168,272
+RET,P07949,Protein kinase,724,1016
+RET,P07949,Cadherin-like region 1 (CLD1),29,153
+RET,P07949,Cadherin-like region 3 (CLD3),265,379
+RET,P07949,Cadherin-like region 4 (CLD4),405,506
+KIT,P10721,Ig-like C2-type 1,27,112
+KIT,P10721,Ig-like C2-type 2,121,205
+KIT,P10721,Ig-like C2-type 3,212,308
+KIT,P10721,Ig-like C2-type 4,317,410
+KIT,P10721,Ig-like C2-type 5,413,507
+KIT,P10721,Protein kinase,589,937
+KIT,P10721,Important for interaction with phosphotyrosine-binding proteins,568,570
+PDGFRA,P16234,Ig-like C2-type 1,24,113
+PDGFRA,P16234,Ig-like C2-type 2,117,201
+PDGFRA,P16234,Ig-like C2-type 3,202,306
+PDGFRA,P16234,Ig-like C2-type 4,319,410
+PDGFRA,P16234,Ig-like C2-type 5,414,517
+PDGFRA,P16234,Protein kinase,593,954
+PDGFRA,P16234,Disordered,1018,1089
